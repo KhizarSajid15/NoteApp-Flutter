@@ -1,3 +1,3 @@
-# flutterp2
+# NoteApp
 
 A new Flutter project.

@@ -1,0 +1,31 @@
+name: flutterp2
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^2.27.1
+  cloud_firestore: ^4.15.9
+  firebase_auth: ^4.17.9
+  intl: ^0.17.0
+  encrypt: ^5.0.3
+  xor_encryption: ^0.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  assets:
+  - assets/
+  uses-material-design: true
+
+  
